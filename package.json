@@ -1,0 +1,27 @@
+{
+  "name": "bim_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DESIREBF/Bim_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DESIREBF/Bim_code/issues"
+  },
+  "homepage": "https://github.com/DESIREBF/Bim_code#readme",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "save-dev": "^0.0.1-security",
+    "three": "^0.135.0",
+    "web-ifc-viewer": "^1.0.207"
+  }
+}

@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#viewer-container{
+    height: 70rem;
+    width: 70rem;
+}
